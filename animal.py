@@ -22,3 +22,12 @@ class Lion(Animal):
 
 R = Human()
 R.move
+
+K = Snake()
+K.move
+
+R = Dog()
+R.move
+
+K = Lion()
+K.move
